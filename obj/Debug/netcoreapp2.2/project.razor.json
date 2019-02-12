@@ -1,6 +1,6 @@
 {
   "ProjectFilePath": "d:\\Repos\\TodoApi\\TodoApi.csproj",
-  "TargetFramework": "netcoreapp2.1",
+  "TargetFramework": "netcoreapp2.2",
   "TagHelpers": [],
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
